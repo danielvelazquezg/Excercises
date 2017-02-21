@@ -1,0 +1,7 @@
+c:\users\daniel vg\documents\visual studio 2012\Projects\M-thToLast\M-thToLast\bin\Debug\M-thToLast.exe.config
+c:\users\daniel vg\documents\visual studio 2012\Projects\M-thToLast\M-thToLast\obj\Debug\M-thToLast.csprojResolveAssemblyReference.cache
+c:\users\daniel vg\documents\visual studio 2012\Projects\M-thToLast\M-thToLast\bin\Debug\M-thToLast.exe
+c:\users\daniel vg\documents\visual studio 2012\Projects\M-thToLast\M-thToLast\bin\Debug\M-thToLast.pdb
+c:\users\daniel vg\documents\visual studio 2012\Projects\M-thToLast\M-thToLast\obj\Debug\M-thToLast.exe
+c:\users\daniel vg\documents\visual studio 2012\Projects\M-thToLast\M-thToLast\obj\Debug\M-thToLast.pdb
+c:\users\daniel vg\documents\visual studio 2012\Projects\M-thToLast\M-thToLast\bin\Debug\Exercises.exe.config
